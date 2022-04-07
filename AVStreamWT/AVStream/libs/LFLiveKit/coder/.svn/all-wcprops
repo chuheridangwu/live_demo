@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/sinashow/dongrong/!svn/ver/5899/src/client/ios/dongrong/libaries/test/AVStreamWT_%203/AVStream/libs/LFLiveKit/coder
+END
+LFAudioEncoding.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/sinashow/dongrong/!svn/ver/5899/src/client/ios/dongrong/libaries/test/AVStreamWT_%203/AVStream/libs/LFLiveKit/coder/LFAudioEncoding.h
+END
+LFHardwareVideoEncoder.m
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/sinashow/dongrong/!svn/ver/5899/src/client/ios/dongrong/libaries/test/AVStreamWT_%203/AVStream/libs/LFLiveKit/coder/LFHardwareVideoEncoder.m
+END
+LFH264VideoEncoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/sinashow/dongrong/!svn/ver/5899/src/client/ios/dongrong/libaries/test/AVStreamWT_%203/AVStream/libs/LFLiveKit/coder/LFH264VideoEncoder.h
+END
+LFH264VideoEncoder.mm
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/sinashow/dongrong/!svn/ver/5899/src/client/ios/dongrong/libaries/test/AVStreamWT_%203/AVStream/libs/LFLiveKit/coder/LFH264VideoEncoder.mm
+END
+LFVideoEncoding.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/sinashow/dongrong/!svn/ver/5899/src/client/ios/dongrong/libaries/test/AVStreamWT_%203/AVStream/libs/LFLiveKit/coder/LFVideoEncoding.h
+END
+LFHardwareAudioEncoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/sinashow/dongrong/!svn/ver/5899/src/client/ios/dongrong/libaries/test/AVStreamWT_%203/AVStream/libs/LFLiveKit/coder/LFHardwareAudioEncoder.h
+END
+LFHardwareAudioEncoder.m
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/sinashow/dongrong/!svn/ver/5899/src/client/ios/dongrong/libaries/test/AVStreamWT_%203/AVStream/libs/LFLiveKit/coder/LFHardwareAudioEncoder.m
+END
+LFHardwareVideoEncoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/sinashow/dongrong/!svn/ver/5899/src/client/ios/dongrong/libaries/test/AVStreamWT_%203/AVStream/libs/LFLiveKit/coder/LFHardwareVideoEncoder.h
+END

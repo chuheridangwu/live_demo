@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/sinashow/dongrong/!svn/ver/5899/src/client/ios/dongrong/libaries/test/AVStreamWT_%203/AVStream/libs/WTSDK/opencv2.framework/Versions/A/Headers/videostab
+END
+frame_source.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/sinashow/dongrong/!svn/ver/5899/src/client/ios/dongrong/libaries/test/AVStreamWT_%203/AVStream/libs/WTSDK/opencv2.framework/Versions/A/Headers/videostab/frame_source.hpp
+END
+deblurring.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/sinashow/dongrong/!svn/ver/5899/src/client/ios/dongrong/libaries/test/AVStreamWT_%203/AVStream/libs/WTSDK/opencv2.framework/Versions/A/Headers/videostab/deblurring.hpp
+END
+inpainting.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/sinashow/dongrong/!svn/ver/5899/src/client/ios/dongrong/libaries/test/AVStreamWT_%203/AVStream/libs/WTSDK/opencv2.framework/Versions/A/Headers/videostab/inpainting.hpp
+END
+videostab.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/sinashow/dongrong/!svn/ver/5899/src/client/ios/dongrong/libaries/test/AVStreamWT_%203/AVStream/libs/WTSDK/opencv2.framework/Versions/A/Headers/videostab/videostab.hpp
+END
+log.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/sinashow/dongrong/!svn/ver/5899/src/client/ios/dongrong/libaries/test/AVStreamWT_%203/AVStream/libs/WTSDK/opencv2.framework/Versions/A/Headers/videostab/log.hpp
+END
+optical_flow.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/sinashow/dongrong/!svn/ver/5899/src/client/ios/dongrong/libaries/test/AVStreamWT_%203/AVStream/libs/WTSDK/opencv2.framework/Versions/A/Headers/videostab/optical_flow.hpp
+END
+motion_stabilizing.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/sinashow/dongrong/!svn/ver/5899/src/client/ios/dongrong/libaries/test/AVStreamWT_%203/AVStream/libs/WTSDK/opencv2.framework/Versions/A/Headers/videostab/motion_stabilizing.hpp
+END
+fast_marching.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/sinashow/dongrong/!svn/ver/5899/src/client/ios/dongrong/libaries/test/AVStreamWT_%203/AVStream/libs/WTSDK/opencv2.framework/Versions/A/Headers/videostab/fast_marching.hpp
+END
+global_motion.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/sinashow/dongrong/!svn/ver/5899/src/client/ios/dongrong/libaries/test/AVStreamWT_%203/AVStream/libs/WTSDK/opencv2.framework/Versions/A/Headers/videostab/global_motion.hpp
+END
+fast_marching_inl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/sinashow/dongrong/!svn/ver/5899/src/client/ios/dongrong/libaries/test/AVStreamWT_%203/AVStream/libs/WTSDK/opencv2.framework/Versions/A/Headers/videostab/fast_marching_inl.hpp
+END
+stabilizer.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/sinashow/dongrong/!svn/ver/5899/src/client/ios/dongrong/libaries/test/AVStreamWT_%203/AVStream/libs/WTSDK/opencv2.framework/Versions/A/Headers/videostab/stabilizer.hpp
+END

@@ -1,0 +1,26 @@
+//
+//  AVStream.pch
+//  AVStream
+//
+//  Created by gaoshuang  on 2018/4/26.
+//  Copyright © 2018年 gaoshuang . All rights reserved.
+//
+
+#ifndef AVStream_pch
+#define AVStream_pch
+#ifdef __OBJC__
+#import "CNMLib.h"
+#import <GPUImage/GPUImage.h>
+#import "WT2Tools.h"
+#import "WT2Categarys.h"
+
+
+#define SCREEN_WIDTH        [UIScreen mainScreen].bounds.size.width
+#define SCREEN_HEIGTH       [UIScreen mainScreen].bounds.size.height
+#define StatusBarHeight     [[UIApplication sharedApplication] statusBarFrame].size.height
+#define NAV_HEIGHT          (StatusBarHeight + 44)
+#define kBottomSafeHeight   (StatusBarHeight == 44 ? 34 : 0)
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#endif
+#endif /* AVStream_pch */
